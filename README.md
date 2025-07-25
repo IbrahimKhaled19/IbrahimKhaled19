@@ -7,8 +7,7 @@
 * 📫 How to reach me: ibrahimaboaly@gmail.com
 
 
-==============================================================
-About Me
+👨🏻‍💻  A Little Bit About Me and My Interests
 
 ```yaml
 name: Ibrahim Khaled
